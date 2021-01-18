@@ -1,0 +1,16 @@
+[StartTime]
+Assembly_Rev_A-Static 3.MFC=4m:19s
+[SolverState]
+Assembly_Rev_A-Static 3.MFC=2
+[MainFrame]
+Assembly_Rev_A-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAPPAAAAAAEDDAAAAACNBAAAAA
+[ShowMin]
+Assembly_Rev_A-Static 3.MFC=No
+[SolverType]
+Assembly_Rev_A-Static 3.MFC=Linear Analysis
+[StudyType]
+Assembly_Rev_A-Static 3.MFC=0
+[StudyName]
+Assembly_Rev_A-Static 3.MFC=Static 3
+[Solver]
+Assembly_Rev_A-Static 3.MFC=Iterative

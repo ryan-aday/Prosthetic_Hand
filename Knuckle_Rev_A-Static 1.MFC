@@ -1,0 +1,16 @@
+[StartTime]
+Knuckle_Rev_A-Static 1.MFC=20s
+[SolverState]
+Knuckle_Rev_A-Static 1.MFC=2
+[MainFrame]
+Knuckle_Rev_A-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAPPAAAAAAEDDAAAAACNBAAAAA
+[ShowMin]
+Knuckle_Rev_A-Static 1.MFC=No
+[SolverType]
+Knuckle_Rev_A-Static 1.MFC=Linear Analysis
+[StudyType]
+Knuckle_Rev_A-Static 1.MFC=0
+[StudyName]
+Knuckle_Rev_A-Static 1.MFC=Static 1
+[Solver]
+Knuckle_Rev_A-Static 1.MFC=Iterative
